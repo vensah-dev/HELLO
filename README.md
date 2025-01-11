@@ -2,8 +2,27 @@
 
 # Smart Sheet - Easy Revision
 
+Ever experienced trouble tabulating all your worksheets before your major exams? Ever forgot or mixed up various studying events due to your busy schedule? Ever found it troublesome to actually allocate time to study without the help of a study timer? Well, fret not, Smart Sheet is here to help! With the provision of various useful functions related to studying, you’ll be more prepared and organised when studying and revising.
 
 
-PLS DONT COPY THE CODE WE ACTUALLY SPENT MORE THAN 2 HOURS ON IT.
+1. Worksheet Organisation
 
-edit: all the code is in the "Main" branch copy/clone it from there
+Users are able to convert their worksheets into soft copies which makes it easier to sort by different categories based on preferences, so they don’t have to worry about losing them.
+
+
+2. Study Streaks
+
+Every day the user is encouraged to enter the app and scan their worksheets to keep their streak alive. This helps the user to ensure that all their worksheets are digitised for future use in a fun way.
+
+
+3. Calendar
+
+Allows users to keep track of important studying events by sending the user notifications.
+
+
+4. Exam Timer
+
+Used to limit users when reattempting practice papers from the start of the year to simulate a proper exam scenario with little to no effort.
+
+
+This app was created by Devendran Venkatesh, Michael Praveen Johnson Allen Jeffrey, Kayden Kok Weng Jun, Shlok Shet & Kevin Koh Zhao Chuang under the 2023 Swift Accelerator Programme.
