@@ -5,22 +5,22 @@
 Ever experienced trouble tabulating all your worksheets before your major exams? Ever forgot or mixed up various studying events due to your busy schedule? Ever found it troublesome to actually allocate time to study without the help of a study timer? Well, fret not, Smart Sheet is here to help! With the provision of various useful functions related to studying, you’ll be more prepared and organised when studying and revising.
 
 
-1. Worksheet Organisation
+## Worksheet Organisation
 
 Users are able to convert their worksheets into soft copies which makes it easier to sort by different categories based on preferences, so they don’t have to worry about losing them.
 
 
-2. Study Streaks
+## Study Streaks
 
 Every day the user is encouraged to enter the app and scan their worksheets to keep their streak alive. This helps the user to ensure that all their worksheets are digitised for future use in a fun way.
 
 
-3. Calendar
+## Calendar
 
 Allows users to keep track of important studying events by sending the user notifications.
 
 
-4. Exam Timer
+## Exam Timer
 
 Used to limit users when reattempting practice papers from the start of the year to simulate a proper exam scenario with little to no effort.
 
