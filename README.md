@@ -1,5 +1,5 @@
 ![icon](https://github.com/user-attachments/assets/63b164ca-7024-47d4-9acd-17ae09bc4441)
-<img width="128" height="128" src="https://github.com/user-attachments/assets/32442cb4-1565-4fff-9a1d-463401d8dcc5">
+<img width="128" height="128" src="https://github.com/user-attachments/assets/63b164ca-7024-47d4-9acd-17ae09bc4441">
 
 # Smart Sheet
 
