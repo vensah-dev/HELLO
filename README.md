@@ -1,6 +1,6 @@
 <img width="128" height="128" src="https://github.com/user-attachments/assets/63b164ca-7024-47d4-9acd-17ae09bc4441">
 
-# Smart Sheet - Easy Revision
+# Smart Sheet - Easy Revision [link](https://vensah-dev.github.io)
 
 Ever experienced trouble tabulating all your worksheets before your major exams? Ever forgot or mixed up various studying events due to your busy schedule? Ever found it troublesome to actually allocate time to study without the help of a study timer? Well, fret not, Smart Sheet is here to help! With the provision of various useful functions related to studying, you’ll be more prepared and organised when studying and revising.
 
