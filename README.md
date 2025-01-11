@@ -1,3 +1,4 @@
+![icon](https://github.com/user-attachments/assets/63b164ca-7024-47d4-9acd-17ae09bc4441)
 # Smart Sheet
 
 Revision with a plus.
