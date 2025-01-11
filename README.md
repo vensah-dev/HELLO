@@ -25,4 +25,7 @@ Allows users to keep track of important studying events by sending the user noti
 Used to limit users when reattempting practice papers from the start of the year to simulate a proper exam scenario with little to no effort.
 
 
+### Credits
 This app was created by Devendran Venkatesh, Michael Praveen Johnson Allen Jeffrey, Kayden Kok Weng Jun, Shlok Shet & Kevin Koh Zhao Chuang under the 2023 Swift Accelerator Programme.
+
+
